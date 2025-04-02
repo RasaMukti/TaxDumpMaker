@@ -1,0 +1,52 @@
+1	|	root	|		|	scientific name
+1783272	|	k__Bacillati	|		|	scientific name
+201174	|	p__Actinomycetota	|		|	scientific name
+1760	|	c__Actinomycetes	|		|	scientific name
+85004	|	o__Bifidobacteriales	|		|	scientific name
+31953	|	f__Bifidobacteriaceae	|		|	scientific name
+1678	|	g__Bifidobacterium	|		|	scientific name
+1681	|	s__Bifidobacterium bifidum	|		|	scientific name
+2701	|	g__Gardnerella	|		|	scientific name
+2702	|	s__Gardnerella vaginalis	|		|	scientific name
+85007	|	o__Mycobacteriales	|		|	scientific name
+1762	|	f__Mycobacteriaceae	|		|	scientific name
+1763	|	g__Mycobacterium	|		|	scientific name
+1773	|	s__Mycobacterium tuberculosis	|		|	scientific name
+1239	|	p__Bacillota	|		|	scientific name
+91061	|	c__Bacilli	|		|	scientific name
+1385	|	o__Bacillales	|		|	scientific name
+186817	|	f__Bacillaceae	|		|	scientific name
+1386	|	g__Bacillus	|		|	scientific name
+1423	|	s__Bacillus subtilis	|		|	scientific name
+90964	|	f__Staphylococcaceae	|		|	scientific name
+1279	|	g__Staphylococcus	|		|	scientific name
+1280	|	s__Staphylococcus aureus	|		|	scientific name
+186826	|	o__Lactobacillales	|		|	scientific name
+33958	|	f__Lactobacillaceae	|		|	scientific name
+1578	|	g__Lactobacillus	|		|	scientific name
+1579	|	s__Lactobacillus acidophilus	|		|	scientific name
+1300	|	f__Streptococcaceae	|		|	scientific name
+1301	|	g__Streptococcus	|		|	scientific name
+1313	|	s__Streptococcus pneumoniae	|		|	scientific name
+186801	|	c__Clostridia	|		|	scientific name
+186802	|	o__Eubacteriales	|		|	scientific name
+31979	|	f__Clostridiaceae	|		|	scientific name
+1485	|	g__Clostridium	|		|	scientific name
+1491	|	s__Clostridium botulinum	|		|	scientific name
+3379134	|	k__Pseudomonadati	|		|	scientific name
+29547	|	p__Campylobacterota	|		|	scientific name
+3031852	|	c__Epsilonproteobacteria	|		|	scientific name
+213849	|	o__Campylobacterales	|		|	scientific name
+72293	|	f__Helicobacteraceae	|		|	scientific name
+209	|	g__Helicobacter	|		|	scientific name
+210	|	s__Helicobacter pylori	|		|	scientific name
+1224	|	p__Pseudomonadota	|		|	scientific name
+1236	|	c__Gammaproteobacteria	|		|	scientific name
+91347	|	o__Enterobacterales	|		|	scientific name
+543	|	f__Enterobacteriaceae	|		|	scientific name
+561	|	g__Escherichia	|		|	scientific name
+562	|	s__Escherichia coli	|		|	scientific name
+72274	|	o__Pseudomonadales	|		|	scientific name
+135621	|	f__Pseudomonadaceae	|		|	scientific name
+286	|	g__Pseudomonas	|		|	scientific name
+287	|	s__Pseudomonas aeruginosa	|		|	scientific name

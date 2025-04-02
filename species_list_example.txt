@@ -1,0 +1,11 @@
+Pseudomonas aeruginosa
+Escherichia coli
+Bacillus subtilis
+Staphylococcus aureus
+Clostridium botulinum
+Lactobacillus acidophilus
+Mycobacterium tuberculosis
+Gardnerella vaginalis
+Bifidobacterium bifidum
+Streptococcus pneumoniae
+Helicobacter pylori
