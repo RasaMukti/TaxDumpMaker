@@ -30,7 +30,7 @@ TaxdumpMaker is a Python-based tool designed to generate NCBI-like taxdump files
 Run the `taxdumpMaker.py` script with the following arguments:
 
 ```bash
-python3 taxdumpMaker.py <species_list.txt> <output_file> [--update-db] [--impute]
+python3 taxdumpMaker.py --species-list <species_list.txt> --output-dir <output_file> [--update-db] [--impute]
 ```
 
 ### Arguments:
@@ -42,7 +42,7 @@ python3 taxdumpMaker.py <species_list.txt> <output_file> [--update-db] [--impute
 ### Example:
 
 ```bash
-python3 taxdumpMaker.py species_list_example.txt test_output --update-db --impute
+python3 taxdumpMaker.py --species-list species_list_example.txt --output-dir test_output --update-db --impute
 ```
 
 ## Output
